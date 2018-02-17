@@ -23,6 +23,10 @@ Garcia Martinez Noe Aaron
 Castruita Martinez Pedro Antonio
 Larrea Rodriguez Paola Carolina
 Jesus Enrique Nuño Diaz
+
+Hernandez Catro Edgar Natannaet
+
+
 Garcia Martinez Noe Aaron
 Castruita Martinez Pedro Antonio
 Enciso Sandoval Martha Mariana
@@ -46,6 +50,7 @@ Garcia Martinez Noe Aaron,
 Castruita Martinez Pedro Antonio,
 Jesus Enrique Nuño Diaz,
 David Garcia Gonzalez,
+
 
 Basulto Ayala Leonardo,
 
@@ -111,3 +116,6 @@ Ramirez Cervantes Josue Alejandro
 Enciso Sandoval Martha Mariana
 
 Basulto Ayala Leonardo
+
+Basulto Ayala Leonardo
+
