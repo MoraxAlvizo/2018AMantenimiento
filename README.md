@@ -11,24 +11,23 @@ Barbosa Salas Mayra Elizabeth
 Rivas Varela Benjamin
 Castruita Martinez Pedro Antonio
 Agustin De La Cruz Sanchez
-Luis Fernando Hern√°ndez D√≠az
+Luis Fernando Hern·ndez DÌaz
 Carlos Daniel Perez Torres
 Barbosa Salas Mayra Elizabeth
 Rivas Varela Benjamin
 Llamas Gonzalez Mario Alberto
-Garcia Martinez Noe Aaron
 Castruita Martinez Pedro Antonio
 Garcia Martinez Noe Aaron
 Castruita Martinez Pedro Antonio
 Larrea Rodriguez Paola Carolina <3
+
 Jesus Enrique Nu√±o Diaz
 Mu√±iz Gonzales Carlos Daniel
 Larrea Rodriguez Paola Carolina
 
-Jesus Enrique NuÒo Diaz
 
-Noe Aaron Garcia Martinez
-Guevara Herrera Alan Alberto
+Jesus Enrique NuÒo Diaz
+MuÒiz Gonzales Carlos Daniel
 Larrea Rodriguez Paola Carolina
 Jesus Enrique NuÒo Diaz
 
@@ -162,3 +161,11 @@ Vazquez Mendez Jorge Eduardo
 
 Basulto Ayala Leonardo
 Caballero Marroquin Jose Daniel
+
+Noe Aaron Garcia Martinez
+Guevara Herrera Alan Alberto
+Larrea Rodriguez Paola Carolina
+Jesus Enrique NuÒo Diaz
+Ivan Lopez Neri
+Hernandez Catro Edgar Natannaet
+
