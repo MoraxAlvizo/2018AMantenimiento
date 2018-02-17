@@ -1,5 +1,4 @@
-AITOR TILLA
-﻿ # 2018AMantenimiento
+# 2018AMantenimiento
 =======
  # 2018AMantenimiento
 <<<<<<< HEAD
@@ -32,6 +31,7 @@ Larrea Rodriguez Paola Carolina <3
 Jesus Enrique Nuño Diaz
 Muñiz Gonzales Carlos Daniel
 Larrea Rodriguez Paola Carolina
+Davoh Acero Valenciano^^
 <<<<<<< HEAD
 Jesus Enrique Nu�o Diaz
 
@@ -61,6 +61,7 @@ Jesus Enrique Nuño Diaz
 >>>>>>> 7b07ec5da5eab831ac06b25be717bcddc42b429d
 Ivan Lopez Neri
 Hernandez Catro Edgar Natannaet
+Davoh Acero Valenciano
 aaaaaay aya ayayayayayayayayayayayaa
 
 
@@ -112,6 +113,7 @@ Castruita Martinez Pedro Antonio,
 Larrea Rodriguez Paola Carolina
 Rivas Varela Benjamin
 Llamas Gonzalez Mario Alberto
+Davoh Acero Valenciano
 Garcia Martinez Noe Aaron
 Castruita Martinez Pedro Antonio
 Garcia Martinez Noe Aaron
