@@ -1,4 +1,10 @@
 <<<<<<< HEAD
+# 2018AMantenimiento
+=======
+ # 2018AMantenimiento
+=======
+>>>>>>> 51ed75b0c87a17dbfeea54e3815c8a499df7b178
+<<<<<<< HEAD
 
  # 2018AMantenimiento
 
@@ -63,6 +69,8 @@ Castruita Martinez Pedro Antonio
 Garcia Martinez Noe Aaron
 Castruita Martinez Pedro Antonio
 Larrea Rodriguez Paola Carolina <3
+<<<<<<< HEAD
+=======
 Jesus Enrique Nuño Diaz
 Muñiz Gonzales Carlos Daniel
 Larrea Rodriguez Paola Carolina
@@ -118,21 +126,17 @@ Gutierrez Romero Uriel Alejandro
 >>>>>>> d13dad8622bc5d6768b095ed55bf54801c11cf62
 =======
 >>>>>>> 51ed75b0c87a17dbfeea54e3815c8a499df7b178
+>>>>>>> 80e0d89608d5f99f4558c7d3a73297d2f706d001
 <<<<<<< HEAD
-=======
->>>>>>> 8626b059bf7e7e8f25f02ed1cd1f446a97d5d96d
->>>>>>> a56feb72e1cddd17ce79f266ebe0a86e7d435a76
->>>>>>> ac10248658af231a4af94141f38092c0a6b09543
->>>>>>> 8ea64ef5d5503eee00ef3b00c0ec585652bba372
-Garcia Martinez Noe Aaron
-Castruita Martinez Pedro Antonio
-Enciso Sandoval Martha Mariana
 Jesus Enrique NuÃ±o Diaz
 MuÃ±iz Gonzales Carlos Daniel
-Ramirez Cervantes Josue Alejandro
-Noe Aaron Garcia Martinez
-Gutierrez Romero Uriel Alejandro
 Larrea Rodriguez Paola Carolina
+<<<<<<< HEAD
+Davoh Acero Valenciano^^
+<<<<<<< HEAD
+=======
+>>>>>>> 51ed75b0c87a17dbfeea54e3815c8a499df7b178
+=======
 Jesus Enrique NuÃ±o Diaz
 Noe Aaron Garcia Martinez
 <<<<<<< HEAD
@@ -210,38 +214,19 @@ Enciso Sandoval Martha Mariana
 Jesus Enrique Nuño Diaz
 
 Larrea Rodriguez Paola Carolina <3
+>>>>>>> 80e0d89608d5f99f4558c7d3a73297d2f706d001
 Jesus Enrique Nuño Diaz
 Muñiz Gonzales Carlos Daniel
-
 Larrea Rodriguez Paola Carolina
 Jesus Enrique Nuño Diaz
-Noe Aaron Garcia Martinez
-
-Garcia Martinez Noe Aaron
-Castruita Martinez Pedro Antonio
+<<<<<<< HEAD
 
 
-Enciso Sandoval Martha Mariana
 
+<<<<<<< HEAD
 
-Jesus Enrique Nuño Diaz
-
-Larrea Rodriguez Paola Carolina <3
-Jesus Enrique Nuño Diaz
-Muñiz Gonzales Carlos Daniel
-
-Larrea Rodriguez Paola Carolina
-Jesus Enrique Nuño Diaz
-
-Ramirez Cervantes Josue Alejandro
-
-Noe Aaron Garcia Martinez
-
-
-Ramirez Cervantes Josue Alejandro
-
-Enciso Sandoval Martha Mariana
-
+Hernandez Catro Edgar Natannaet
+=======
 Basulto Ayala Leonardo
 >>>>>>> 8ea64ef5d5503eee00ef3b00c0ec585652bba372
 
@@ -255,23 +240,22 @@ Enciso Sandoval Martha Mariana
 Enciso Sandoval Martha Mariana,
 Gutierrez Romero Uriel Alejandro
 <<<<<<< HEAD
+>>>>>>> 80e0d89608d5f99f4558c7d3a73297d2f706d001
 <<<<<<< HEAD
-Flores Leal Nancy Carolina 
-
-Vazquez Mendez Jorge Eduardo
 
 =======
 <<<<<<< HEAD
 =======
 >>>>>>> d13dad8622bc5d6768b095ed55bf54801c11cf62
-=======
-<<<<<<< HEAD
 
 <<<<<<< HEAD
 Basulto Ayala Leonardo
 Jose osvaldo farfan de leon
 =======
 
+<<<<<<< HEAD
+31e4ae2
+=======
 =======
 Vazquez Mendez Jorge Eduardo
 >>>>>>> 7b07ec5da5eab831ac06b25be717bcddc42b429d
@@ -294,3 +278,4 @@ Caballero Marroquin Jose Daniel
 >>>>>>> 48e0aa1e979cf7acd5c6ae6fced96cddd31e4ae2
 >>>>>>> 51ed75b0c87a17dbfeea54e3815c8a499df7b178
 Jose Osvaldo Farfan de Leon
+>>>>>>> 80e0d89608d5f99f4558c7d3a73297d2f706d001
