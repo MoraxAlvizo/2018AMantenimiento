@@ -5,3 +5,6 @@ Barbosa Salas Mayra Elizabeth
 Rivas Varela Benjamin
 Basulto Ayala Leonardo
 Castruita Martinez Pedro Antonio
+Garcia Martinez Noe Aaron
+Castruita Martinez Pedro Antonio
+
