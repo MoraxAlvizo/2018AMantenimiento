@@ -4,3 +4,4 @@ David Garcia Gonzalez
 Valdez Perez Jhossemar Araceli 
 Rivas Varela Benjamin
 Castruita Martinez Pedro Antonio
+Segura Hernandez Angel Adrian
