@@ -48,6 +48,20 @@ Ramirez Cervantes Josue Alejandro
 Caballero Marroquin Jose Daniel
 Gomez nuñez Osvaldo Alberto
 Vazquez mendez Jorge Eduardo
-Jose Osvaldo Farafan de Leon
+Jose Osvaldo Farfan de Leon
 Flores leal Nancy carolina
+<<<<<<< HEAD
 >>>>>>> dbd524e698a6e68433e1d709686da1b5e5cdf546
+=======
+Vazquez escobar Alexis Daniel
+Segura hernandez angel adrian
+De la cruz vazquez juan pablo
+Delgadillo gutierrez jonatan esau
+Cardenas perez kalvin
+Melendez jara estela
+Lopez Neri ivan
+Tabares barrera benjamin
+ 
+
+
+>>>>>>> 64bcffc2ba53821ddff52431811e5077067e4b02
