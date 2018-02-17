@@ -1,5 +1,8 @@
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> 44cfc7d835f96bac26a0611e2bca025fd6bf5eb9
 # 2018AMantenimiento
 David Garcia Gonzalez
 Basulto Ayala Leonardo
@@ -22,8 +25,11 @@ Castruita Martinez Pedro Antonio
 Garcia Martinez Noe Aaron
 Castruita Martinez Pedro Antonio
 Maga�a Martinez Yohan Axel
+<<<<<<< HEAD
 # 2018AMantenimiento
 David Garcia Gonzalez
+=======
+>>>>>>> 44cfc7d835f96bac26a0611e2bca025fd6bf5eb9
 Valdez Perez Jhossemar Araceli
 Gutierrez Romero Uriel Alejandro
 Leonardo Basulto Ayala
@@ -35,7 +41,6 @@ Luis Fernando Hernández Díaz
 Carlos Daniel Perez Torres
 Llamas Gonzalez Mario Alberto
 Garcia Martinez Noe Aaron
-<<<<<<< HEAD
 Castruita Martinez Pedro Antonio
 Larrea Rodriguez Paola Carolina <3
 Mu�iz Gonzales Carlos Daniel
@@ -51,16 +56,66 @@ Castruita Martinez Pedro Antonio
 Larrea Rodriguez Paola Carolina 
 Jesus Enrique Nu�o Diaz
 Mu�iz Gonzales Carlos Daniel
-Larrea Rodriguez Paola Carolina
 Jesus Enrique Nu�o Diaz
 Hernandez Catro Edgar Natannaet
 Gutierrez Romero Uriel Alejandro
+Noe Aaron Garcia Martinez
+Guevara Herrera Alan Alberto
+Larrea Rodriguez Paola Carolina
+Jesus Enrique Nu�o Diaz
+Ivan Lopez Neri
+Garcia Martinez Noe Aaron
+Castruita Martinez Pedro Antonio
+Enciso Sandoval Martha Mariana
+Jesus Enrique Nuño Diaz
+Gonzales Carlos Daniel
+Ramirez Cervantes Josue Alejandro
+Noe Aaron Garcia Martinez
+Gutierrez Romero Uriel Alejandro
+Larrea Rodriguez Paola Carolina
+Jesus Enrique Nuño Diaz
+Noe Aaron Garcia Martinez
+Caballero Marroquin Jose Daniel
+David Garcia Gonzalez,
+Basulto Ayala Leonardo,
+Valdez Perez Jhossemar Araceli,
+Luis Fernando Hernández Díaz,
+Carlos Daniel Perez Torres,
+Barbosa Salas Mayra Elizabeth,
+Rivas Varela Benjamin,
+Castruita Martinez Pedro Antonio,
+Garcia Martinez Noe Aaron,
+Castruita Martinez Pedro Antonio,
+Jesus Enrique Nuño Diaz,
+David Garcia Gonzalez,
+Basulto Ayala Leonardo,
+Luis Fernando Hernández Díaz,
+Carlos Daniel Perez Torres,
+Barbosa Salas Mayra Elizabeth
+Rivas Varela Benjamin,
+Castruita Martinez Pedro Antonio,
+Garcia Martinez Noe Aaron,
+Castruita Martinez Pedro Antonio,
+Larrea Rodriguez Paola Carolina
+Rivas Varela Benjamin
+Llamas Gonzalez Mario Alberto
+Garcia Martinez Noe Aaron
+Castruita Martinez Pedro Antonio
+Garcia Martinez Noe Aaron
+Castruita Martinez Pedro Antonio
+Garcia Martinez Noe Aaron
+Castruita Martinez Pedro Antonio
+Enciso Sandoval Martha Mariana
+Jesus Enrique Nu�o Diaz
+Mu�iz Gonzales Carlos Daniel
+Rey Joan Ramirez Biviano
 Jesus Enrique Nuño Diaz
 Andres Antonio Rosales Rodriguez 
 Hernandez Catro Edgar Natannaet
 Garcia Martinez Noe Aaron
 Castruita Martinez Pedro Antonio
 Enciso Sandoval Martha Mariana
+<<<<<<< HEAD
 Muñiz Gonzales Carlos Daniel
 Larrea Rodriguez Paola Carolina
 Davoh Acero Valenciano^^
@@ -129,6 +184,8 @@ Larrea Rodriguez Paola Carolina <3
 Jesus Enrique Nu�o Diaz
 Mu�iz Gonzales Carlos Daniel
 
+=======
+>>>>>>> 44cfc7d835f96bac26a0611e2bca025fd6bf5eb9
 Larrea Rodriguez Paola Carolina
 Muñiz Gonzales Carlos Daniel
 Jesus Enrique Nu�o Diaz
@@ -140,3 +197,4 @@ Enciso Sandoval Martha Mariana
 Ramirez Cervantes Josue Alejandro
 Caballero Marroquin Jose Daniel
 Rosales Rodiguez Andres Antonio 
+
