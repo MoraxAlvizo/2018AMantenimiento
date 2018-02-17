@@ -33,7 +33,10 @@ Delgadillo gutierrez jonatan esau
 Cardenas perez kalvin
 Melendez jara estela
 Lopez Neri ivan
-Tabares barrera benjamin
- 
+Tabares barrera benjamín
+Camarena romero Lizbeth
+Gomez Fonseca paula
+Becerra moreno pedro
 
+ 
 
