@@ -29,4 +29,5 @@ Garcia Martinez Noe Aaron
 Castruita Martinez Pedro Antonio
 Garcia Martinez Noe Aaron
 Castruita Martinez Pedro Antonio
-Enciso Sandoval Martha Mariana
+Enciso Sandoval Martha Mariana,
+Gutierrez Romero Uriel Alejandro
