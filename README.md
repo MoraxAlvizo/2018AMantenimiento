@@ -1,4 +1,5 @@
 
+# 2018AMantenimiento
 Garcia Martinez Noe Aaron
 Castruita Martinez Pedro Antonio
 Enciso Sandoval Martha Mariana
@@ -12,7 +13,6 @@ Gutierrez Romero Uriel Alejandro
 Flores Leal Nancy Carolina 
 Vazquez Mendez Jorge Eduardo
 Carolina Márquez
-# 2018AMantenimiento
 David Garcia Gonzalez
 Basulto Ayala Leonardo
 Valdez Perez Jhossemar Araceli 
@@ -42,7 +42,6 @@ Jose Osvaldo Farfan de Leon
 Flores leal Nancy carolina
 Segura hernandez angel adrian
 De la cruz vazquez juan pablo
-Delgadillo gutierrez jonatan esau
 Cardenas perez calvin
 Melendez jara estela
 Lopez Neri ivan
@@ -57,3 +56,5 @@ Alvarez gutierrez Alejandro
 Maya alondra Aguirre sayavedra
 Vazquez Escobar Alexis Daniel
 Cardenas Perez Calvin
+Delgadillo Gutierrez Jonatan Esau
+
