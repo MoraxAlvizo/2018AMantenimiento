@@ -73,6 +73,6 @@ Garcia Martinez Noe Aaron
 Castruita Martinez Pedro Antonio
 Enciso Sandoval Martha Mariana,
 Gutierrez Romero Uriel Alejandro
-
+Vazquez Mendez Jorge Eduardo
 Basulto Ayala Leonardo
 
