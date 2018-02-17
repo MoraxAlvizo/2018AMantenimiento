@@ -37,4 +37,12 @@ Guevara Herrera Alan Alberto
 Garcia Martinez Noe Aaron
 Castruita Martinez Pedro Antonio
 Enciso Sandoval Martha Mariana
+Jesus Enrique Nuño Diaz
+Larrea Rodriguez Paola Carolina <3
+Jesus Enrique Nuño Diaz
+Muñiz Gonzales Carlos Daniel
+Jesus Enrique Nuño Diaz
+Ramirez Cervantes Josue Alejandro
+Noe Aaron Garcia Martinez
+Ramirez Cervantes Josue Alejandro
 
