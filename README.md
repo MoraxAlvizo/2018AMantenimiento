@@ -203,34 +203,9 @@ Garcia Martinez Noe Aaron
 Castruita Martinez Pedro Antonio
 Enciso Sandoval Martha Mariana,
 Gutierrez Romero Uriel Alejandro
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 Flores Leal Nancy Carolina 
 
 Vazquez Mendez Jorge Eduardo
 
-=======
-<<<<<<< HEAD
-=======
->>>>>>> d13dad8622bc5d6768b095ed55bf54801c11cf62
-=======
-<<<<<<< HEAD
-
-
-=======
-Vazquez Mendez Jorge Eduardo
->>>>>>> 7b07ec5da5eab831ac06b25be717bcddc42b429d
->>>>>>> ac10248658af231a4af94141f38092c0a6b09543
-<<<<<<< HEAD
->>>>>>> 8ea64ef5d5503eee00ef3b00c0ec585652bba372
-Basulto Ayala Leonardo
-Caballero Marroquin Jose Daniel
-=======
-Basulto Ayala Leonardo
-<<<<<<< HEAD
-=======
-Caballero Marroquin Jose Daniel
->>>>>>> 8ea64ef5d5503eee00ef3b00c0ec585652bba372
->>>>>>> d13dad8622bc5d6768b095ed55bf54801c11cf62
-=======
->>>>>>> 48e0aa1e979cf7acd5c6ae6fced96cddd31e4ae2
+Carolina Márquez
