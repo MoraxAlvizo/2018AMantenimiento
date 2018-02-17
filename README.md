@@ -1,4 +1,7 @@
+AITOR TILLA
+
  # 2018AMantenimiento
+
 David Garcia Gonzalez
 Valdez Perez Jhossemar Araceli
 Gutierrez Romero Uriel Alejandro
@@ -17,7 +20,7 @@ Llamas Gonzalez Mario Alberto
 Castruita Martinez Pedro Antonio
 Garcia Martinez Noe Aaron
 Castruita Martinez Pedro Antonio
-Larrea Rodriguez Paola Carolina
+Larrea Rodriguez Paola Carolina <3
 Jesus Enrique Nuño Diaz
 Muñiz Gonzales Carlos Daniel
 Larrea Rodriguez Paola Carolina
@@ -28,7 +31,3 @@ Larrea Rodriguez Paola Carolina
 Jesus Enrique Nuño Diaz
 Ivan Lopez Neri
 Hernandez Catro Edgar Natannaet
-
-
-
-
