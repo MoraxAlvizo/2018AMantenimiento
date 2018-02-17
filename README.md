@@ -1,8 +1,7 @@
-﻿<<<<<<< HEAD
+AITOR TILLA
 ﻿ # 2018AMantenimiento
 =======
  # 2018AMantenimiento
-AITOR TILLA
 >>>>>>> 8d8a3dce4a03a5ce5dc97f0a99e68597ab23bfe2
 David Garcia Gonzalez
 Valdez Perez Jhossemar Araceli
