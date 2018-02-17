@@ -21,8 +21,17 @@ Garcia Martinez Noe Aaron
 Castruita Martinez Pedro Antonio
 Garcia Martinez Noe Aaron
 Castruita Martinez Pedro Antonio
+Larrea Rodriguez Paola Carolina <3
+Jesus Enrique Nuño Diaz
+Muñiz Gonzales Carlos Daniel
 Larrea Rodriguez Paola Carolina
 Jesus Enrique Nuño Diaz
+
+Noe Aaron Garcia Martinez
+Guevara Herrera Alan Alberto
+Larrea Rodriguez Paola Carolina
+Jesus Enrique Nuño Diaz
+
 
 Hernandez Catro Edgar Natannaet
 
@@ -31,9 +40,9 @@ Garcia Martinez Noe Aaron
 Castruita Martinez Pedro Antonio
 Enciso Sandoval Martha Mariana
 Jesus Enrique Nuño Diaz
-Larrea Rodriguez Paola Carolina <3
-Jesus Enrique Nuño Diaz
 Muñiz Gonzales Carlos Daniel
+Ramirez Cervantes Josue Alejandro
+Noe Aaron Garcia Martinez
 Larrea Rodriguez Paola Carolina
 Jesus Enrique Nuño Diaz
 Noe Aaron Garcia Martinez
