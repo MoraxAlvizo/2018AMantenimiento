@@ -24,5 +24,16 @@ Ramirez Cervantes Josue Alejandro
 Caballero Marroquin Jose Daniel
 Gomez nuñez Osvaldo Alberto
 Vazquez mendez Jorge Eduardo
-Jose Osvaldo Farafan de Leon
+Jose Osvaldo Farfan de Leon
 Flores leal Nancy carolina
+Vazquez escobar Alexis Daniel
+Segura hernandez angel adrian
+De la cruz vazquez juan pablo
+Delgadillo gutierrez jonatan esau
+Cardenas perez kalvin
+Melendez jara estela
+Lopez Neri ivan
+Tabares barrera benjamin
+ 
+
+
