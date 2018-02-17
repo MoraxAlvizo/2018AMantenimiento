@@ -1,17 +1,17 @@
-# 2018AMantenimiento
-Basulto Ayala Leonardo
+ # 2018AMantenimiento
 David Garcia Gonzalez
+Leonardo Basulto Ayala
 Valdez Perez Jhossemar Araceli 
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
+Luis Fernando Hernández Díaz
 Carlos Daniel Perez Torres
-=======
->>>>>>> 4333ae1503f0d46fda39a09e1dd279ee96b9eeaa
->>>>>>> b2c2bfd8fd462c652b1603d12858e4b93a175be2
 Barbosa Salas Mayra Elizabeth
 Rivas Varela Benjamin
+<<<<<<< HEAD
 Llamas Gonzalez Mario Alberto
 Garcia Martinez Noe Aaron
+=======
+>>>>>>> 7e16db89edcbcf06e8b0d16cf184d22a9c4dc9db
 Castruita Martinez Pedro Antonio
-
+Larrea Rodriguez Paola Carolina
+Jesus Enrique Nuño Diaz
+Noe Aaron Garcia Martinez
