@@ -1,8 +1,17 @@
+
 # 2018AMantenimiento
+<<<<<<< HEAD
 <<<<<<< HEAD
 
 Enciso Sandoval Martha Mariana
 Jesus Enrique Nuño Diaz
+=======
+Garcia Martinez Noe Aaron
+Castruita Martinez Pedro Antonio
+Enciso Sandoval Martha Mariana
+Jesus Enrique Nuño Diaz
+Larrea Rodriguez Paola Carolina <3
+>>>>>>> cf96d0637bdbb33d7d9d6de722e8bdd22a77e66c
 Muñiz Gonzales Carlos Daniel
 Enciso Sandoval Martha Mariana
 Ramirez Cervantes Josue Alejandro
@@ -11,8 +20,11 @@ Gutierrez Romero Uriel Alejandro
 Flores Leal Nancy Carolina 
 Vazquez Mendez Jorge Eduardo
 Carolina Márquez
+<<<<<<< HEAD
 =======
 >>>>>>> b778dd4a6be61d8333cccd335925aa988fbaf31e
+=======
+>>>>>>> cf96d0637bdbb33d7d9d6de722e8bdd22a77e66c
 David Garcia Gonzalez
 Basulto Ayala Leonardo
 Valdez Perez Jhossemar Araceli 
@@ -55,5 +67,6 @@ Ramirez Viviano rey
 Alvarez gutierrez Alejandro
 Maya alondra Aguirre sayavedra
 Vazquez Escobar Alexis Daniel
+Cardenas Perez Calvin
 Delgadillo Gutierrez Jonatan Esau
 
