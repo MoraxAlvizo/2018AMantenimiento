@@ -1,19 +1,33 @@
  # 2018AMantenimiento
-David Garcia Gonzalez
-Valdez Perez Jhossemar Araceli
-Gutierrez Romero Uriel Alejandro
-Valdez Perez Jhossemar Araceli 
-Leonardo Basulto Ayala
-Valdez Perez Jhossemar Araceli 
-Luis Fernando Hernández Díaz
-Carlos Daniel Perez Torres
+David Garcia Gonzalez,
+Basulto Ayala Leonardo,
+Valdez Perez Jhossemar Araceli,
+Luis Fernando Hernández Díaz,
+Carlos Daniel Perez Torres,
+Barbosa Salas Mayra Elizabeth,
+Rivas Varela Benjamin,
+Castruita Martinez Pedro Antonio,
+Garcia Martinez Noe Aaron,
+Castruita Martinez Pedro Antonio,
+Jesus Enrique Nuño Diaz,
+David Garcia Gonzalez,
+Basulto Ayala Leonardo,
+Valdez Perez Jhossemar Araceli ,
+Luis Fernando Hernández Díaz,
+Carlos Daniel Perez Torres,
 Barbosa Salas Mayra Elizabeth
+Rivas Varela Benjamin,
+Castruita Martinez Pedro Antonio,
+Garcia Martinez Noe Aaron,
+Castruita Martinez Pedro Antonio,
+Larrea Rodriguez Paola Carolina
 Rivas Varela Benjamin
 Llamas Gonzalez Mario Alberto
 Garcia Martinez Noe Aaron
 Castruita Martinez Pedro Antonio
 Garcia Martinez Noe Aaron
 Castruita Martinez Pedro Antonio
+
 
 Garcia Martinez Noe Aaron
 Castruita Martinez Pedro Antonio
@@ -32,3 +46,8 @@ Muñiz Gonzales Carlos Daniel
 Larrea Rodriguez Paola Carolina
 Jesus Enrique Nuño Diaz
 Noe Aaron Garcia Martinez
+=======
+Garcia Martinez Noe Aaron
+Castruita Martinez Pedro Antonio
+Enciso Sandoval Martha Mariana
+>>>>>>> af63358cf2dff46bb1388d133c3f928ed200918d
