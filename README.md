@@ -86,7 +86,7 @@ Enciso Sandoval Martha Mariana
 Jesus Enrique Nuño Diaz
 Muñiz Gonzales Carlos Daniel
 Rey Joan Ramirez Biviano
-Jesus Enrique NuÃ±o Diaz
+Jesus Enrique Nuño Diaz
 Andres Antonio Rosales Rodriguez 
 Hernandez Catro Edgar Natannaet
 Garcia Martinez Noe Aaron
@@ -103,4 +103,4 @@ Enciso Sandoval Martha Mariana
 Ramirez Cervantes Josue Alejandro
 Caballero Marroquin Jose Daniel
 Rosales Rodiguez Andres Antonio 
-
+Estela Jacqueline Melendez Jara
