@@ -1,4 +1,4 @@
-# 2018AMantenimiento
+﻿# 2018AMantenimiento
 David Garcia Gonzalez
 Basulto Ayala Leonardo
 Valdez Perez Jhossemar Araceli 
@@ -12,7 +12,7 @@ Garcia Martinez Noe Aaron
 <<<<<<< HEAD
 Castruita Martinez Pedro Antonio
 Enciso Sandoval Martha Mariana
-Paula Miroslava Gomez Fonseca
+
 Pedro Becerra Moreno 
 .
 =======
@@ -49,5 +49,6 @@ Alvarez gutierrez Alejandro
 Maya alondra Aguirre sayavedra
 Vazquez Escobar Alexis Daniel
 Delgadillo Gutierrez Jonatan Esau
+Paula Miroslava Gomez Fonseca
 
 >>>>>>> b778dd4a6be61d8333cccd335925aa988fbaf31e
