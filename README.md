@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-Hola kevin
+
 Garcia Martinez Noe Aaron
 Castruita Martinez Pedro Antonio
 Enciso Sandoval Martha Mariana
@@ -13,7 +12,6 @@ Gutierrez Romero Uriel Alejandro
 Flores Leal Nancy Carolina 
 Vazquez Mendez Jorge Eduardo
 Carolina Márquez
-=======
 # 2018AMantenimiento
 David Garcia Gonzalez
 Basulto Ayala Leonardo
@@ -58,8 +56,4 @@ Ramirez Viviano rey
 Alvarez gutierrez Alejandro
 Maya alondra Aguirre sayavedra
 Vazquez Escobar Alexis Daniel
-
-
- 
-
->>>>>>> 4e3241f2c1b9562fea7f18a67f8039d06034e968
+Cardenas Perez Calvin
