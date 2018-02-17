@@ -34,6 +34,7 @@ Jesus Enrique Nuño Diaz
 
 
 
+
 Hernandez Catro Edgar Natannaet
 
 
@@ -41,6 +42,19 @@ Hernandez Catro Edgar Natannaet
 Hernandez Catro Edgar Natannaet
 Gutierrez Romero Uriel Alejandro
 
+=======
+<<<<<<< HEAD
+Ivan Lopez Neri
+Hernandez Catro Edgar Natannaet
+aaaaaay aya ayayayayayayayayayayayaa
+
+
+=======
+=======
+Hernandez Catro Edgar Natannaet
+Gutierrez Romero Uriel Alejandro
+>>>>>>> 8626b059bf7e7e8f25f02ed1cd1f446a97d5d96d
+>>>>>>> a56feb72e1cddd17ce79f266ebe0a86e7d435a76
 Garcia Martinez Noe Aaron
 Castruita Martinez Pedro Antonio
 Enciso Sandoval Martha Mariana
