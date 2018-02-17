@@ -27,6 +27,10 @@ Noe Aaron Garcia Martinez
 Guevara Herrera Alan Alberto
 Larrea Rodriguez Paola Carolina
 Jesus Enrique Nuño Diaz
+
+Hernandez Catro Edgar Natannaet
+
+=======
 Garcia Martinez Noe Aaron
 Castruita Martinez Pedro Antonio
 Enciso Sandoval Martha Mariana
@@ -50,3 +54,7 @@ Castruita Martinez Pedro Antonio,
 Jesus Enrique Nuño Diaz,
 David Garcia Gonzalez,
 Basulto Ayala Leonardo
+<<<<<<< HEAD
+=======
+>>>>>>> 308d2114a2463565ee9f5bee3e057c276faa323f
+>>>>>>> f6d72a219cf907c3bf029edc8b83dfecdc5a75cc
