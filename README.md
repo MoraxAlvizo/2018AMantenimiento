@@ -1,4 +1,5 @@
 # 2018AMantenimiento
+<<<<<<< HEAD
 
 Enciso Sandoval Martha Mariana
 Jesus Enrique Nuño Diaz
@@ -10,6 +11,8 @@ Gutierrez Romero Uriel Alejandro
 Flores Leal Nancy Carolina 
 Vazquez Mendez Jorge Eduardo
 Carolina Márquez
+=======
+>>>>>>> b778dd4a6be61d8333cccd335925aa988fbaf31e
 David Garcia Gonzalez
 Basulto Ayala Leonardo
 Valdez Perez Jhossemar Araceli 
@@ -39,7 +42,6 @@ Jose Osvaldo Farfan de Leon
 Flores leal Nancy carolina
 Segura hernandez angel adrian
 De la cruz vazquez juan pablo
-Delgadillo gutierrez jonatan esau
 Cardenas perez calvin
 Melendez jara estela
 Lopez Neri ivan
@@ -53,4 +55,5 @@ Ramirez Viviano rey
 Alvarez gutierrez Alejandro
 Maya alondra Aguirre sayavedra
 Vazquez Escobar Alexis Daniel
+Delgadillo Gutierrez Jonatan Esau
 
