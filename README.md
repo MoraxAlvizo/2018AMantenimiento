@@ -1,4 +1,21 @@
-ï»¿# 2018AMantenimiento
+
+# 2018AMantenimiento
+
+Enciso Sandoval Martha Mariana
+Jesus Enrique Nuño Diaz
+Garcia Martinez Noe Aaron
+Castruita Martinez Pedro Antonio
+Enciso Sandoval Martha Mariana
+Jesus Enrique Nuño Diaz
+Larrea Rodriguez Paola Carolina 
+Muñiz Gonzales Carlos Daniel
+Enciso Sandoval Martha Mariana
+Ramirez Cervantes Josue Alejandro
+Basulto Ayala Leonardo
+Gutierrez Romero Uriel Alejandro
+Flores Leal Nancy Carolina 
+Vazquez Mendez Jorge Eduardo
+Carolina Márquez
 David Garcia Gonzalez
 Basulto Ayala Leonardo
 Valdez Perez Jhossemar Araceli 
@@ -9,20 +26,17 @@ Luis Fernando HernÃ¡ndez DÃ­az
 Danna Akira Sanchez tene
 Castruita Martinez Pedro Antonio
 Garcia Martinez Noe Aaron
-<<<<<<< HEAD
+
 Castruita Martinez Pedro Antonio
 Enciso Sandoval Martha Mariana
-
 Pedro Becerra Moreno 
-.
-=======
-MagaÃ±a Martinez Yohan Axel
+Magaña Martinez Yohan Axel
 Gutierrez Romero Uriel Alejandro
 Agustin De La Cruz Sanchez
 Llamas Gonzalez Mario Alberto
 Larrea Rodriguez Paola Carolina 
-Jesus Enrique NuÃ±o Diaz
-MuÃ±iz Gonzales Carlos Daniel
+Jesus Enrique Nuño Diaz
+Muñiz Gonzales Carlos Daniel
 Hernandez Catro Edgar Natannaet
 Andres Antonio Rosales Rodriguez 
 Enciso Sandoval Martha Mariana
@@ -48,7 +62,8 @@ Ramirez Viviano rey
 Alvarez gutierrez Alejandro
 Maya alondra Aguirre sayavedra
 Vazquez Escobar Alexis Daniel
+Cardenas Perez Calvin
 Delgadillo Gutierrez Jonatan Esau
 Paula Miroslava Gomez Fonseca
 
->>>>>>> b778dd4a6be61d8333cccd335925aa988fbaf31e
+
