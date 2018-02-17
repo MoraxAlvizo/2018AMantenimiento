@@ -30,13 +30,19 @@ Vazquez escobar Alexis Daniel
 Segura hernandez angel adrian
 De la cruz vazquez juan pablo
 Delgadillo gutierrez jonatan esau
-Cardenas perez kalvin
+Cardenas perez calvin
 Melendez jara estela
 Lopez Neri ivan
 Tabares barrera benjamín
 Camarena romero Lizbeth
 Gomez Fonseca paula
+David cuauhtemoc acero valenciano 
+Villalpando Gonzales Benjamin juannpi
 Becerra moreno pedro
 Ramirez Viviano rey
+Alvarez gutierrez Alejandro
+Maya alondra Aguirre sayavedra
+
+
  
 
