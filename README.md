@@ -1,4 +1,4 @@
-﻿# 2018AMantenimiento
+# 2018AMantenimiento
 David Garcia Gonzalez
 Basulto Ayala Leonardo
 Valdez Perez Jhossemar Araceli 
@@ -42,6 +42,4 @@ Alvarez gutierrez Alejandro
 Maya alondra Aguirre sayavedra
 Vazquez Escobar Alexis Daniel
 Delgadillo Gutierrez Jonatan Esau
-
- 
 
