@@ -9,8 +9,6 @@ Rivas Varela Benjamin
 Castruita Martinez Pedro Antonio
 Garcia Martinez Noe Aaron
 Castruita Martinez Pedro Antonio
-<<<<<<< HEAD
-Larrea Rodriguez Paola Carolina
-=======
+Larrea Rodriguez Paola Carolina <3
 Jesus Enrique Nuño Diaz
->>>>>>> 801e4219fc99f6ec5a24a5ea67ada6a7d5731e3e
+Muñiz Gonzales Carlos Daniel
