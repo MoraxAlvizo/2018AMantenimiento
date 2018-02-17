@@ -11,33 +11,18 @@ Rivas Varela Benjamin
 Carlos Daniel Perez Torres
 Luis Fernando Hernández Díaz
 Carlos Daniel Perez Torres
-AITOR TILLA
- # 2018AMantenimiento
-
-=======
-<<<<<<< HEAD
 
 
-=======
-<<<<<<< HEAD
-# 2018AMantenimiento
+
+
 Danna Akira Sanches tene
-=======
-AITOR TILLA
->>>>>>> d13dad8622bc5d6768b095ed55bf54801c11cf62
->>>>>>> f97826e3ec62765031eec948bb926c97311f98e4
 
 
-<<<<<<< HEAD
 
 
-# 2018AMantenimiento
-Danna Akira Sanches tene
+
 Segura Hernandez Angel Adrian
-=======
->>>>>>> 8ea64ef5d5503eee00ef3b00c0ec585652bba372
->>>>>>> 51ed75b0c87a17dbfeea54e3815c8a499df7b178
->>>>>>> f97826e3ec62765031eec948bb926c97311f98e4
+
 David Garcia Gonzalez
 Basulto Ayala Leonardo
 Valdez Perez Jhossemar Araceli 
@@ -66,18 +51,13 @@ Castruita Martinez Pedro Antonio
 Garcia Martinez Noe Aaron
 Castruita Martinez Pedro Antonio
 Larrea Rodriguez Paola Carolina <3
-<<<<<<< HEAD
-
-Jesus Enrique NuÃ±o Diaz
-MuÃ±iz Gonzales Carlos Daniel
-Larrea Rodriguez Paola Carolina
 
 
-=======
-<<<<<<< HEAD
-=======
->>>>>>> f97826e3ec62765031eec948bb926c97311f98e4
-Jesus Enrique Nuño Diaz
+
+
+
+
+
 Muñiz Gonzales Carlos Daniel
 Larrea Rodriguez Paola Carolina
 Jesus Enrique Nuño Diaz
@@ -86,36 +66,10 @@ Jesus Enrique Nuño Diaz
 
 
 Hernandez Catro Edgar Natannaet
-<<<<<<< HEAD
 
-=======
-<<<<<<< HEAD
->>>>>>> f97826e3ec62765031eec948bb926c97311f98e4
 
-=======
-<<<<<<< HEAD
-=======
->>>>>>> d13dad8622bc5d6768b095ed55bf54801c11cf62
 
-Hernandez Catro Edgar Natannaet
-Gutierrez Romero Uriel Alejandro
 
-<<<<<<< HEAD
-
-=======
-<<<<<<< HEAD
-
-=======
-<<<<<<< HEAD
-
-=======
-=======
-<<<<<<< HEAD
-=======
->>>>>>> d13dad8622bc5d6768b095ed55bf54801c11cf62
->>>>>>> 51ed75b0c87a17dbfeea54e3815c8a499df7b178
->>>>>>> f97826e3ec62765031eec948bb926c97311f98e4
-Jesus Enrique NuÃ±o Diaz
 Noe Aaron Garcia Martinez
 Guevara Herrera Alan Alberto
 Larrea Rodriguez Paola Carolina
@@ -131,22 +85,7 @@ Garcia Martinez Noe Aaron
 Castruita Martinez Pedro Antonio
 Enciso Sandoval Martha Mariana
 =======
-<<<<<<< HEAD
-<<<<<<< HEAD
-
-=======
-=======
-<<<<<<< HEAD
-
-=======
->>>>>>> d13dad8622bc5d6768b095ed55bf54801c11cf62
-=======
->>>>>>> 51ed75b0c87a17dbfeea54e3815c8a499df7b178
->>>>>>> 80e0d89608d5f99f4558c7d3a73297d2f706d001
-<<<<<<< HEAD
->>>>>>> f97826e3ec62765031eec948bb926c97311f98e4
-Jesus Enrique NuÃ±o Diaz
-MuÃ±iz Gonzales Carlos Daniel
+<<<<<<< HEADMuÃ±iz Gonzales Carlos Daniel
 Larrea Rodriguez Paola Carolina
 <<<<<<< HEAD
 Davoh Acero Valenciano^^
