@@ -1,10 +1,7 @@
-<<<<<<< HEAD
-Hola kevin
-Garcia Martinez Noe Aaron
-Castruita Martinez Pedro Antonio
+# 2018AMantenimiento
+
 Enciso Sandoval Martha Mariana
 Jesus Enrique Nuño Diaz
-Larrea Rodriguez Paola Carolina <3
 Muñiz Gonzales Carlos Daniel
 Enciso Sandoval Martha Mariana
 Ramirez Cervantes Josue Alejandro
@@ -13,8 +10,6 @@ Gutierrez Romero Uriel Alejandro
 Flores Leal Nancy Carolina 
 Vazquez Mendez Jorge Eduardo
 Carolina Márquez
-=======
-# 2018AMantenimiento
 David Garcia Gonzalez
 Basulto Ayala Leonardo
 Valdez Perez Jhossemar Araceli 
@@ -25,13 +20,13 @@ Luis Fernando HernÃ¡ndez DÃ­az
 Danna Akira Sanchez tene
 Castruita Martinez Pedro Antonio
 Garcia Martinez Noe Aaron
-MagaÃ±a Martinez Yohan Axel
+Magaña Martinez Yohan Axel
 Gutierrez Romero Uriel Alejandro
 Agustin De La Cruz Sanchez
 Llamas Gonzalez Mario Alberto
 Larrea Rodriguez Paola Carolina 
-Jesus Enrique NuÃ±o Diaz
-MuÃ±iz Gonzales Carlos Daniel
+Jesus Enrique Nuño Diaz
+Muñiz Gonzales Carlos Daniel
 Hernandez Catro Edgar Natannaet
 Andres Antonio Rosales Rodriguez 
 Enciso Sandoval Martha Mariana
@@ -59,7 +54,3 @@ Alvarez gutierrez Alejandro
 Maya alondra Aguirre sayavedra
 Vazquez Escobar Alexis Daniel
 
-
- 
-
->>>>>>> 4e3241f2c1b9562fea7f18a67f8039d06034e968
