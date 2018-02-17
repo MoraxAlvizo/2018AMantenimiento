@@ -27,8 +27,17 @@ Noe Aaron Garcia Martinez
 Guevara Herrera Alan Alberto
 Larrea Rodriguez Paola Carolina
 Jesus Enrique Nuño Diaz
+<<<<<<< HEAD
+Ivan Lopez Neri
+Hernandez Catro Edgar Natannaet
+aaaaaay aya ayayayayayayayayayayayaa
+
+
+=======
+=======
 Hernandez Catro Edgar Natannaet
 Gutierrez Romero Uriel Alejandro
+>>>>>>> 8626b059bf7e7e8f25f02ed1cd1f446a97d5d96d
 Garcia Martinez Noe Aaron
 Castruita Martinez Pedro Antonio
 Enciso Sandoval Martha Mariana
