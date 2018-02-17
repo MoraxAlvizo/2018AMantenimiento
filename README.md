@@ -14,13 +14,31 @@ Garcia Martinez Noe Aaron
 Castruita Martinez Pedro Antonio
 Garcia Martinez Noe Aaron
 Castruita Martinez Pedro Antonio
+<<<<<<< HEAD
+<<<<<<< HEAD
+Garcia Martinez Noe Aaron
+Castruita Martinez Pedro Antonio
+<<<<<<< HEAD
+Enciso Sandoval Martha Mariana
+
+=======
+Jesus Enrique Nuño Diaz
+>>>>>>> 801e4219fc99f6ec5a24a5ea67ada6a7d5731e3e
+=======
+=======
 Larrea Rodriguez Paola Carolina <3
 Jesus Enrique Nuño Diaz
 Muñiz Gonzales Carlos Daniel
+>>>>>>> 3c19b4735098c3c9f8b138f09685b988bc219cfc
 Larrea Rodriguez Paola Carolina
 Jesus Enrique Nuño Diaz
 <<<<<<< HEAD
 Ramirez Cervantes Josue Alejandro
 =======
 Noe Aaron Garcia Martinez
+<<<<<<< HEAD
 >>>>>>> 3c19b4735098c3c9f8b138f09685b988bc219cfc
+=======
+>>>>>>> 7e16db89edcbcf06e8b0d16cf184d22a9c4dc9db
+>>>>>>> 4f1d4c4c86909addf7dfbf095e9849f072c98b76
+Ramirez Cervantes Josue Alejandro
