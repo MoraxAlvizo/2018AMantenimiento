@@ -1,4 +1,5 @@
- # 2018AMantenimiento
+# 2018AMantenimiento
+Danna Akira Sanches tene
 David Garcia Gonzalez
 Basulto Ayala Leonardo
 Valdez Perez Jhossemar Araceli 
@@ -18,7 +19,7 @@ Barbosa Salas Mayra Elizabeth
 Rivas Varela Benjamin
 Castruita Martinez Pedro Antonio
 Agustin De La Cruz Sanchez
-Luis Fernando Hernández Díaz
+Luis Fernando HernÃ¡ndez DÃ­az
 Carlos Daniel Perez Torres
 Barbosa Salas Mayra Elizabeth
 Rivas Varela Benjamin
@@ -28,42 +29,44 @@ Castruita Martinez Pedro Antonio
 Garcia Martinez Noe Aaron
 Castruita Martinez Pedro Antonio
 Larrea Rodriguez Paola Carolina <3
-Jesus Enrique Nuño Diaz
-Muñiz Gonzales Carlos Daniel
+Jesus Enrique NuÃ±o Diaz
+MuÃ±iz Gonzales Carlos Daniel
 Larrea Rodriguez Paola Carolina
-Jesus Enrique Nuño Diaz
+Jesus Enrique NuÃ±o Diaz
 Noe Aaron Garcia Martinez
 Guevara Herrera Alan Alberto
 Larrea Rodriguez Paola Carolina
-Jesus Enrique Nuño Diaz
+Jesus Enrique NuÃ±o Diaz
+Ivan Lopez Neri
+Hernandez Catro Edgar Natannaet
 Hernandez Catro Edgar Natannaet
 Gutierrez Romero Uriel Alejandro
 Garcia Martinez Noe Aaron
 Castruita Martinez Pedro Antonio
 Enciso Sandoval Martha Mariana
-Jesus Enrique Nuño Diaz
-Muñiz Gonzales Carlos Daniel
+Jesus Enrique NuÃ±o Diaz
+MuÃ±iz Gonzales Carlos Daniel
 Ramirez Cervantes Josue Alejandro
 Noe Aaron Garcia Martinez
 Gutierrez Romero Uriel Alejandro
 Larrea Rodriguez Paola Carolina
-Jesus Enrique Nuño Diaz
+Jesus Enrique NuÃ±o Diaz
 Noe Aaron Garcia Martinez
 David Garcia Gonzalez,
 Basulto Ayala Leonardo,
 Valdez Perez Jhossemar Araceli,
-Luis Fernando Hernández Díaz,
+Luis Fernando HernÃ¡ndez DÃ­az,
 Carlos Daniel Perez Torres,
 Barbosa Salas Mayra Elizabeth,
 Rivas Varela Benjamin,
 Castruita Martinez Pedro Antonio,
 Garcia Martinez Noe Aaron,
 Castruita Martinez Pedro Antonio,
-Jesus Enrique Nuño Diaz,
+Jesus Enrique NuÃ±o Diaz,
 David Garcia Gonzalez,
 Basulto Ayala Leonardo,
 Valdez Perez Jhossemar Araceli ,
-Luis Fernando Hernández Díaz,
+Luis Fernando HernÃ¡ndez DÃ­az,
 Carlos Daniel Perez Torres,
 Barbosa Salas Mayra Elizabeth
 Rivas Varela Benjamin,
@@ -81,4 +84,5 @@ Garcia Martinez Noe Aaron
 Castruita Martinez Pedro Antonio
 Enciso Sandoval Martha Mariana,
 Gutierrez Romero Uriel Alejandro
+Vazquez Mendez Jorge Eduardo
 Basulto Ayala Leonardo
