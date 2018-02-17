@@ -1,4 +1,4 @@
-# 2018AMantenimiento
+﻿# 2018AMantenimiento
 David Garcia Gonzalez
 Basulto Ayala Leonardo
 Valdez Perez Jhossemar Araceli 
@@ -28,7 +28,6 @@ Jose Osvaldo Farfan de Leon
 Flores leal Nancy carolina
 Segura hernandez angel adrian
 De la cruz vazquez juan pablo
-Delgadillo gutierrez jonatan esau
 Cardenas perez calvin
 Melendez jara estela
 Lopez Neri ivan
@@ -42,7 +41,7 @@ Ramirez Viviano rey
 Alvarez gutierrez Alejandro
 Maya alondra Aguirre sayavedra
 Vazquez Escobar Alexis Daniel
-
+Delgadillo Gutierrez Jonatan Esau
 
  
 
