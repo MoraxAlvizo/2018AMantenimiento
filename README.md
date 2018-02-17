@@ -1,7 +1,6 @@
-AITOR TILLA
 
  # 2018AMantenimiento
-
+Angel Adrian Segura Hernandez
 David Garcia Gonzalez
 Valdez Perez Jhossemar Araceli
 Gutierrez Romero Uriel Alejandro
@@ -25,7 +24,7 @@ Larrea Rodriguez Paola Carolina <3
 Jesus Enrique Nuño Diaz
 Muñiz Gonzales Carlos Daniel
 Larrea Rodriguez Paola Carolina
-<<<<<<< HEAD
+
 Jesus Enrique Nu�o Diaz
 
 Noe Aaron Garcia Martinez
@@ -43,24 +42,18 @@ Hernandez Catro Edgar Natannaet
 Hernandez Catro Edgar Natannaet
 Gutierrez Romero Uriel Alejandro
 
-=======
-<<<<<<< HEAD
-=======
+
 Jesus Enrique Nuño Diaz
 Noe Aaron Garcia Martinez
 Guevara Herrera Alan Alberto
 Larrea Rodriguez Paola Carolina
 Jesus Enrique Nuño Diaz
->>>>>>> 7b07ec5da5eab831ac06b25be717bcddc42b429d
+
 Ivan Lopez Neri
 Hernandez Catro Edgar Natannaet
 ar Natannaet
 Gutierrez Romero Uriel Alejandro
-<<<<<<< HEAD
-=======
->>>>>>> 8626b059bf7e7e8f25f02ed1cd1f446a97d5d96d
->>>>>>> a56feb72e1cddd17ce79f266ebe0a86e7d435a76
->>>>>>> ac10248658af231a4af94141f38092c0a6b09543
+
 Garcia Martinez Noe Aaron
 Castruita Martinez Pedro Antonio
 Enciso Sandoval Martha Mariana
@@ -72,11 +65,9 @@ Gutierrez Romero Uriel Alejandro
 Larrea Rodriguez Paola Carolina
 Jesus Enrique Nuño Diaz
 Noe Aaron Garcia Martinez
-<<<<<<< HEAD
-Caballero Marroquin Jose Daniel
-=======
 
->>>>>>> ac10248658af231a4af94141f38092c0a6b09543
+Caballero Marroquin Jose Daniel
+
 David Garcia Gonzalez,
 Basulto Ayala Leonardo,
 Valdez Perez Jhossemar Araceli,
@@ -89,11 +80,10 @@ Garcia Martinez Noe Aaron,
 Castruita Martinez Pedro Antonio,
 Jesus Enrique Nuño Diaz,
 David Garcia Gonzalez,
-<<<<<<< HEAD
-=======
 
 
->>>>>>> ac10248658af231a4af94141f38092c0a6b09543
+
+
 Basulto Ayala Leonardo,
 
 
@@ -167,14 +157,8 @@ Garcia Martinez Noe Aaron
 Castruita Martinez Pedro Antonio
 Enciso Sandoval Martha Mariana,
 Gutierrez Romero Uriel Alejandro
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
 
-
-=======
 Vazquez Mendez Jorge Eduardo
->>>>>>> 7b07ec5da5eab831ac06b25be717bcddc42b429d
->>>>>>> ac10248658af231a4af94141f38092c0a6b09543
+
 Basulto Ayala Leonardo
 Caballero Marroquin Jose Daniel
