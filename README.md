@@ -1,5 +1,22 @@
 <<<<<<< HEAD
 
+ # 2018AMantenimiento
+
+
+David Garcia Gonzalez
+Basulto Ayala Leonardo
+Valdez Perez Jhossemar Araceli 
+Barbosa Salas Mayra Elizabeth
+Rivas Varela Benjamin
+Carlos Daniel Perez Torres
+Luis Fernando Hern�ndez D�az
+Carlos Daniel Perez Torres
+AITOR TILLA
+ # 2018AMantenimiento
+
+=======
+<<<<<<< HEAD
+
 
 =======
 <<<<<<< HEAD
@@ -12,6 +29,7 @@ AITOR TILLA
  # 2018AMantenimiento
 
 >>>>>>> 8ea64ef5d5503eee00ef3b00c0ec585652bba372
+>>>>>>> 51ed75b0c87a17dbfeea54e3815c8a499df7b178
 David Garcia Gonzalez
 Basulto Ayala Leonardo
 Valdez Perez Jhossemar Araceli 
@@ -62,11 +80,12 @@ Hernandez Catro Edgar Natannaet
 =======
 >>>>>>> d13dad8622bc5d6768b095ed55bf54801c11cf62
 
-
-
 Hernandez Catro Edgar Natannaet
 Gutierrez Romero Uriel Alejandro
 
+<<<<<<< HEAD
+
+=======
 <<<<<<< HEAD
 
 =======
@@ -74,6 +93,7 @@ Gutierrez Romero Uriel Alejandro
 <<<<<<< HEAD
 =======
 >>>>>>> d13dad8622bc5d6768b095ed55bf54801c11cf62
+>>>>>>> 51ed75b0c87a17dbfeea54e3815c8a499df7b178
 Jesus Enrique Nuño Diaz
 =======
 >>>>>>> 48e0aa1e979cf7acd5c6ae6fced96cddd31e4ae2
@@ -91,8 +111,13 @@ Gutierrez Romero Uriel Alejandro
 <<<<<<< HEAD
 
 =======
+=======
+<<<<<<< HEAD
+
+=======
 >>>>>>> d13dad8622bc5d6768b095ed55bf54801c11cf62
 =======
+>>>>>>> 51ed75b0c87a17dbfeea54e3815c8a499df7b178
 <<<<<<< HEAD
 =======
 >>>>>>> 8626b059bf7e7e8f25f02ed1cd1f446a97d5d96d
@@ -111,10 +136,14 @@ Larrea Rodriguez Paola Carolina
 Jesus Enrique Nuño Diaz
 Noe Aaron Garcia Martinez
 <<<<<<< HEAD
+
+=======
+<<<<<<< HEAD
 Caballero Marroquin Jose Daniel
 =======
 
 >>>>>>> ac10248658af231a4af94141f38092c0a6b09543
+>>>>>>> 8ea64ef5d5503eee00ef3b00c0ec585652bba372
 David Garcia Gonzalez,
 Basulto Ayala Leonardo,
 Valdez Perez Jhossemar Araceli,
@@ -127,6 +156,9 @@ Garcia Martinez Noe Aaron,
 Castruita Martinez Pedro Antonio,
 Jesus Enrique Nuño Diaz,
 David Garcia Gonzalez,
+<<<<<<< HEAD
+
+=======
 <<<<<<< HEAD
 =======
 <<<<<<< HEAD
@@ -143,6 +175,7 @@ Basulto Ayala Leonardo,
 Valdez Perez Jhossemar Araceli ,
 Luis Fernando Hernández Díaz,
 Carlos Daniel Perez Torres,
+
 Barbosa Salas Mayra Elizabeth
 Rivas Varela Benjamin,
 Castruita Martinez Pedro Antonio,
@@ -154,9 +187,16 @@ Llamas Gonzalez Mario Alberto
 Garcia Martinez Noe Aaron
 Castruita Martinez Pedro Antonio
 Garcia Martinez Noe Aaron
+
 Castruita Martinez Pedro Antonio
 
 
+<<<<<<< HEAD
+Larrea Rodriguez Paola Carolina
+
+Jesus Enrique Nu�o Diaz
+
+=======
 
 Garcia Martinez Noe Aaron
 Castruita Martinez Pedro Antonio
@@ -203,9 +243,15 @@ Ramirez Cervantes Josue Alejandro
 Enciso Sandoval Martha Mariana
 
 Basulto Ayala Leonardo
+>>>>>>> 8ea64ef5d5503eee00ef3b00c0ec585652bba372
 
 Garcia Martinez Noe Aaron
 Castruita Martinez Pedro Antonio
+
+Enciso Sandoval Martha Mariana
+
+
+
 Enciso Sandoval Martha Mariana,
 Gutierrez Romero Uriel Alejandro
 <<<<<<< HEAD
@@ -221,6 +267,10 @@ Vazquez Mendez Jorge Eduardo
 =======
 <<<<<<< HEAD
 
+<<<<<<< HEAD
+Basulto Ayala Leonardo
+Jose osvaldo farfan de leon
+=======
 
 =======
 Vazquez Mendez Jorge Eduardo
@@ -230,6 +280,9 @@ Vazquez Mendez Jorge Eduardo
 >>>>>>> 8ea64ef5d5503eee00ef3b00c0ec585652bba372
 Basulto Ayala Leonardo
 Caballero Marroquin Jose Daniel
+<<<<<<< HEAD
+Jose Osvaldo Farfan de Leon
+=======
 =======
 Basulto Ayala Leonardo
 <<<<<<< HEAD
@@ -239,3 +292,5 @@ Caballero Marroquin Jose Daniel
 >>>>>>> d13dad8622bc5d6768b095ed55bf54801c11cf62
 =======
 >>>>>>> 48e0aa1e979cf7acd5c6ae6fced96cddd31e4ae2
+>>>>>>> 51ed75b0c87a17dbfeea54e3815c8a499df7b178
+Jose Osvaldo Farfan de Leon
