@@ -30,3 +30,6 @@ Castruita Martinez Pedro Antonio
 Garcia Martinez Noe Aaron
 Castruita Martinez Pedro Antonio
 Enciso Sandoval Martha Mariana
+Paula Miroslava Gomez Fonseca
+Pedro Becerra Moreno 
+.
