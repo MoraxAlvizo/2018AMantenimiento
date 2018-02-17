@@ -20,7 +20,7 @@ Llamas Gonzalez Mario Alberto
 Castruita Martinez Pedro Antonio
 Garcia Martinez Noe Aaron
 Castruita Martinez Pedro Antonio
-Larrea Rodriguez Paola Carolina <3
+Larrea Rodriguez Paola Carolina 
 Jesus Enrique Nuño Diaz
 Muñiz Gonzales Carlos Daniel
 Larrea Rodriguez Paola Carolina
