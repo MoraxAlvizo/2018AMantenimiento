@@ -52,7 +52,6 @@ Garcia Martinez Noe Aaron,
 Castruita Martinez Pedro Antonio,
 Jesus Enrique Nuño Diaz,
 David Garcia Gonzalez,
-<<<<<<< HEAD
 Basulto Ayala Leonardo,
 Valdez Perez Jhossemar Araceli ,
 Luis Fernando Hernández Díaz,
@@ -73,6 +72,7 @@ Garcia Martinez Noe Aaron
 Castruita Martinez Pedro Antonio
 Enciso Sandoval Martha Mariana,
 Gutierrez Romero Uriel Alejandro
+Flores Leal Nancy Carolina 
 
 Basulto Ayala Leonardo
 
