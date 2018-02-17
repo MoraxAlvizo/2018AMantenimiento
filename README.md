@@ -1,12 +1,12 @@
-<<<<<<< HEAD
+
 # 2018AMantenimiento
 Danna Akira Sanches tene
-=======
+
 AITOR TILLA
 
  # 2018AMantenimiento
 
->>>>>>> 8ea64ef5d5503eee00ef3b00c0ec585652bba372
+
 David Garcia Gonzalez
 Basulto Ayala Leonardo
 Valdez Perez Jhossemar Araceli 
@@ -39,7 +39,7 @@ Jesus Enrique Nuño Diaz
 Muñiz Gonzales Carlos Daniel
 Larrea Rodriguez Paola Carolina
 Jesus Enrique Nuño Diaz
-<<<<<<< HEAD
+
 
 
 
