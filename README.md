@@ -13,26 +13,20 @@ Barbosa Salas Mayra Elizabeth
 Rivas Varela Benjamin
 Castruita Martinez Pedro Antonio
 Agustin De La Cruz Sanchez
-Luis Fernando HernÃ¡ndez DÃ­az
+Luis Fernando Hernández Díaz
 Carlos Daniel Perez Torres
 Barbosa Salas Mayra Elizabeth
 Rivas Varela Benjamin
 Llamas Gonzalez Mario Alberto
-Garcia Martinez Noe Aaron
 Castruita Martinez Pedro Antonio
 Garcia Martinez Noe Aaron
 Castruita Martinez Pedro Antonio
 Larrea Rodriguez Paola Carolina <3
-Jesus Enrique NuÃ±o Diaz
-MuÃ±iz Gonzales Carlos Daniel
+Jesus Enrique Nuño Diaz
+Muñiz Gonzales Carlos Daniel
 Larrea Rodriguez Paola Carolina
+Jesus Enrique Nuño Diaz
 <<<<<<< HEAD
-Jesus Enrique Nuño Diaz
-
-Noe Aaron Garcia Martinez
-Guevara Herrera Alan Alberto
-Larrea Rodriguez Paola Carolina
-Jesus Enrique Nuño Diaz
 
 
 
@@ -47,14 +41,16 @@ Gutierrez Romero Uriel Alejandro
 
 
 Jesus Enrique NuÃ±o Diaz
+=======
+>>>>>>> 48e0aa1e979cf7acd5c6ae6fced96cddd31e4ae2
 Noe Aaron Garcia Martinez
 Guevara Herrera Alan Alberto
 Larrea Rodriguez Paola Carolina
-Jesus Enrique NuÃ±o Diaz
->>>>>>> 7b07ec5da5eab831ac06b25be717bcddc42b429d
+Jesus Enrique Nuño Diaz
 Ivan Lopez Neri
 >>>>>>> 8ea64ef5d5503eee00ef3b00c0ec585652bba372
 Hernandez Catro Edgar Natannaet
+<<<<<<< HEAD
 ar Natannaet
 Gutierrez Romero Uriel Alejandro
 <<<<<<< HEAD
@@ -193,3 +189,5 @@ Vazquez Mendez Jorge Eduardo
 >>>>>>> 8ea64ef5d5503eee00ef3b00c0ec585652bba372
 Basulto Ayala Leonardo
 Caballero Marroquin Jose Daniel
+=======
+>>>>>>> 48e0aa1e979cf7acd5c6ae6fced96cddd31e4ae2
