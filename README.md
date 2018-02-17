@@ -21,5 +21,3 @@ Castruita Martinez Pedro Antonio,
 Garcia Martinez Noe Aaron,
 Castruita Martinez Pedro Antonio,
 Larrea Rodriguez Paola Carolina
-
-
