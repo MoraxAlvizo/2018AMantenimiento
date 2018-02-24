@@ -59,11 +59,11 @@ David cuauhtemoc acero valenciano
 Villalpando Gonzales Benjamin juannpi
 Becerra moreno pedro
 Ramirez Viviano rey
-Alejandro Alvarez Gutierrez
 Maya alondra Aguirre sayavedra
 Vazquez Escobar Alexis Daniel
 Cardenas Perez Calvin
 Delgadillo Gutierrez Jonatan Esau
 Paula Miroslava Gomez Fonseca
+Alejandro Alvarez Gutierrez
 
 
